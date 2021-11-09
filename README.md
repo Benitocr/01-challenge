@@ -8,7 +8,7 @@ Social Media Marketing
 * CSS
 
 ## Website
-https://benitocr.github.io/01-challenge/
+https://benitocr.github.io/Horiseon/
 
 ## Contribution
 Made by Benito C
