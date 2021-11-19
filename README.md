@@ -8,7 +8,7 @@ Social Media Marketing
 * CSS
 
 ## Website
-https://benitocr.github.io/Horiseon/
+https://benitocr.github.io/Horiseon-company/
 
 ![a team of people working on a project](assets/images/web.JPG)
 
