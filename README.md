@@ -10,7 +10,7 @@ Social Media Marketing
 ## Website
 https://benitocr.github.io/Horiseon/
 
-![a team of people working on a project] (assets/images/web.jpg)
+![a team of people working on a project](assets/images/web.JPG)
 
 ## Contribution
 Made by Benito C
